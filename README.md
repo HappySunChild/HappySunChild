@@ -1,8 +1,8 @@
 # HappySunChild
-hi
+a person
 
 ## Usage
-you cant
+you cant use this person because they are not available
 
 ```lua
 local outside = true
