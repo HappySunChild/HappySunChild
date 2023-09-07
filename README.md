@@ -1,8 +1,9 @@
 # HappySunChild
 a person
+mainly works with lua and python, knows a little bit of javascript and also extreme minecraft automation engineer 
 
 ## Usage
-you cant use this person because they are not available
+you cant use this person because they are *(mostly)* not available
 
 ```lua
 local outside = true
@@ -13,7 +14,7 @@ local function goInside()
   inside = true
 end
 
-while outside do
+while (outside) do
   goInside()
 end
 ```
