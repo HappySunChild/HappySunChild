@@ -1,6 +1,8 @@
 # HappySunChild
-a person <br/>
-mainly works with lua and python, knows a little bit of javascript and also extreme minecraft automation engineer <br/><br/>
+hello, i used to make very bad roblox exploits<br/>
+now i do other things occasionally<br/>
 
-## Usage
-you cant use this person because they are *(mostly)* not available
+### Info
+- [Roblox Profile](https://www.roblox.com/users/223478192/profile)
+- [Pastebin Profile](https://pastebin.com/u/HappySunChild)
+- Discord Tag: happysunchild
