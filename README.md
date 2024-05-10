@@ -1,6 +1,5 @@
 # HappySunChild
-hello, i used to make very bad roblox exploits<br/>
-now i do other things occasionally<br/>
+hello, i do random things<br/>
 
 ### Info
 - [Roblox Profile](https://www.roblox.com/users/223478192/profile)
