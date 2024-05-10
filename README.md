@@ -1,5 +1,5 @@
 # HappySunChild
-hello, i do lua and python and english
+hello i do lua and python and english
 
 ### Info
 - [Roblox Profile](https://www.roblox.com/users/223478192/profile)
